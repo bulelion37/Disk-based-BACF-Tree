@@ -1,0 +1,10 @@
+*.txt
+
+*.bin
+
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+Debug/
+Release/
