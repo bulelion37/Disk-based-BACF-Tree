@@ -24,7 +24,7 @@ static bool KMEANS_TEST = true;
 static int BUFFER_LEVEL_FROM_LEAF = 1;
 
 //원하는 Tree의 size
-unsigned long long INPUT_TREE_LIMIT_SIZE = LLONG_MAX;
+unsigned long long INPUT_TREE_LIMIT_SIZE = 1024*1024*1;
 //ULLONG_MAX;
 
 bool DEBUG_PRINT_NODE = false;
