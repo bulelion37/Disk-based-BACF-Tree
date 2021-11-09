@@ -8,6 +8,7 @@ This codes consist of 4 folder.
 ##### This Folder consists of codes that build Buffer Augmented Clustering Features Tree for Data. 
 ##### After building BACF Tree, LeafNodeInfo.txt is result file.
 ##### The result file is composed in the form below. 
+##### Paper : Under submission to the Korean Software Congress 2021. [update when the results come out]
 
 ```
 Data Index in Each Index | MC(Micro Cluster)'s centroid coordinates 
@@ -30,4 +31,4 @@ Ex) 5896.839721 3043.506218384615|[2776, 3178, 3409, 3258, 5229, 2998]
 ##### This Folder consists of code that generates data with random pattern cluster
 
 ### 4. K-MEANS CLUSTERING 
-##### This Folder consists of codes that proceeds K-MEANS clustering with result file that made in BACF Tree and BIRCH's CF Tree. 
+##### This Folder consists of codes that proceeds K-MEANS clustering with result file made in BACF Tree and BIRCH's CF Tree. 
