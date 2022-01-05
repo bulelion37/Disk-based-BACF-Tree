@@ -8,7 +8,7 @@ This codes consist of 4 folder.
 ##### This Folder consists of codes that build Buffer Augmented Clustering Features Tree for Data. 
 ##### After building BACF Tree, LeafNodeInfo.txt is result file.
 ##### The result file is composed in the form below. 
-##### Paper : Korean Software Congress 2021(Under Review). [update when the results come out]
+##### Paper : Korean Software Congress 2021(Published).
 
 ```
 Data Index in Each Index | MC(Micro Cluster)'s centroid coordinates 
