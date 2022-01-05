@@ -19,7 +19,7 @@ Ex) 990317/990421/993267/994960/995893/996624/999388|7788.288679 7920.202520
 ##### This Folder consists of codes that build Birch's Clustering Features Tree for Data. 
 ##### Birch's CF Tree is based on [BIRCH: An Efficient Data Clustering Method for Very Large Databases Paper.](https://www2.cs.sfu.ca/CourseCentral/459/han/papers/zhang96.pdf)
 ##### I used the Birch's CF Tree building code from [here](https://github.com/sehee-lee/JBIRCH)
-##### I changed some of calculating memory size function in that code. 
+##### I changed some of calculating memory size function in that code and adjusted some codes to experiment with BACF Tree. 
 ##### After building CF Tree, InputFileName_leaf_.txt is result file.
 ##### The result file is composed in the form below. 
 ```
